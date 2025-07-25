@@ -71,8 +71,8 @@ A backtesting framework for a simple long-term investment strategy based on tech
 ## ⚗️ A Quirky Touch
 
 ![Bad Joke Shield](https://img.shields.io/badge/Commit%20Messages-80%25%20Sarcasm-orange)
-![Mate](https://img.shields.io/badge/Coffee-Always-green)
 ![Science](https://img.shields.io/badge/Lab%20Mood-Chaotic%20Neutral-yellow)
+![Mate](https://img.shields.io/badge/Mate-Always-green)
 ![Badge](https://img.shields.io/badge/Reasoning-Powered%20by%20Caffeine-brown)
 ![Badge](https://img.shields.io/badge/Experimental-Mindset-yellow)
 ![Badge](https://img.shields.io/badge/Impact-%E2%88%9E-blue)
