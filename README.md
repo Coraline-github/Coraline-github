@@ -65,7 +65,8 @@ A machine learning–driven system to predict equipment failures using multivari
 **Stock Trading & Risk Analysis for the Young Investor**  
 A backtesting framework for a simple long-term investment strategy based on technical indicators (e.g., SMA). Simulates rule-based trades on historical stock data, analyzes returns and risk (e.g., Sharpe ratio, drawdown), and offers beginner-friendly insights into algorithmic investing.
 
-
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=coraline-github&theme=dark&hide_border=false)<br/>
 ---
 
 ## 📫 Let’s Connect
@@ -98,17 +99,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/carolina-belen-castedo-239565230/) 
-
-# 💻 Tech Stack:
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=coraline-github&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=coraline-github&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=coraline-github&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
@@ -117,4 +109,4 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=coraline-github&icon=6&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+-->
