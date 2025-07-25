@@ -74,7 +74,6 @@ A backtesting framework for a simple long-term investment strategy based on tech
 ![Science](https://img.shields.io/badge/Lab%20Mood-Chaotic%20Neutral-yellow)
 ![Mate](https://img.shields.io/badge/Mate-Always-green)
 ![Badge](https://img.shields.io/badge/Reasoning-Powered%20by%20Caffeine-brown)
-![Badge](https://img.shields.io/badge/Experimental-Mindset-yellow)
 ![Badge](https://img.shields.io/badge/Impact-%E2%88%9E-blue)
 
 > “There’s no such thing as a failed experiment — only unexpected results.”  
