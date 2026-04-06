@@ -40,7 +40,7 @@ If you're here, you're probably a potential collaborator, employer, or fellow kn
 ## 🧪 Projects with Purpose
 
 > Real-world problems, scientific thinking, and business impact
-
+<!--
 ### 🥚 [ProdOpt-LP](https://github.com/coraline-github/ProdOpt-LP)
 **Production Optimization via Linear Programming**  
 A foundational LP model that determines the optimal product mix in a small manufacturing plant. It maximizes total production within machine capacity constraints — a first step toward data-driven industrial decision-making.
@@ -64,7 +64,7 @@ A machine learning–driven system to predict equipment failures using multivari
 ### 📈 [STRATEGY-I](https://github.com/YOUR_USERNAME/STRATEGY-I)
 **Stock Trading & Risk Analysis for the Young Investor**  
 A backtesting framework for a simple long-term investment strategy based on technical indicators (e.g., SMA). Simulates rule-based trades on historical stock data, analyzes returns and risk (e.g., Sharpe ratio, drawdown), and offers beginner-friendly insights into algorithmic investing.
-
+-->
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=coraline-github&theme=dark&hide_border=false)<br/>
 ---
