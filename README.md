@@ -40,6 +40,10 @@ If you're here, you're probably a potential collaborator, employer, or fellow kn
 ## 🧪 Projects with Purpose
 
 > Real-world problems, scientific thinking, and business impact
+>
+> ### ⚡ [SOLAR-PAMPA](https://github.com/YOUR_USERNAME/SOLAR-PAMPA)
+**Solar Output Forecasting for La Pampa, Argentina**  
+A data-driven model to forecast weekly solar energy generation using meteorological data (irradiance, cloud cover, etc.). Designed to support grid integration and energy planning in semi-arid regions. Combines physics-informed features with time series modeling for real-world impact in Argentina's renewable energy transition.
 <!--
 ### 🥚 [ProdOpt-LP](https://github.com/coraline-github/ProdOpt-LP)
 **Production Optimization via Linear Programming**  
@@ -52,10 +56,6 @@ Builds on ProdOpt-LP to generate a fully sequenced schedule across machines, min
 ### 🐥 [SimuFlow-Opt](https://github.com/coraline-github/SimuFlow-Opt)
 **Simulating Optimized Flow under Uncertainty**  
 Introduces real-world stochasticity using discrete-event simulation. Stress-tests the MIP-generated schedule to identify bottlenecks, evaluate robustness, and guide strategic improvements in manufacturing systems.
-
-### ⚡ [SOLAR-PAMPA](https://github.com/YOUR_USERNAME/SOLAR-PAMPA)
-**Solar Output Forecasting for La Pampa, Argentina**  
-A data-driven model to forecast weekly solar energy generation using meteorological data (irradiance, cloud cover, etc.). Designed to support grid integration and energy planning in semi-arid regions. Combines physics-informed features with time series modeling for real-world impact in Argentina's renewable energy transition.
 
 ### 🏭 [PM-PIE](https://github.com/YOUR_USERNAME/PM-PIE)
 **Predictive Maintenance for Industrial Equipment**  
